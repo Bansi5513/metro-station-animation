@@ -13,7 +13,7 @@ and a 360 camera.
 - Keyframe animation for the train, 12 door leaves, and the camera
 
 ## Demo
-[Watch the animation](metro_station_animation.mp4)
+[Watch the animation](renders/metro_station_animation.mp4)
 
 ## Details
 - Software: Blender 5.1
