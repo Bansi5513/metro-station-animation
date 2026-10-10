@@ -12,13 +12,12 @@ and a 360 camera.
 - Around 30 custom materials and 16 light sources
 - Keyframe animation for the train, 12 door leaves, and the camera
 
-## Preview
-Full animation: [renders/metro_station_animation.mp4](renders/metro_station_animation.mp4)
+## Demo
+[Watch the animation](metro_station_animation.mp4)
 
 ## Details
 - Software: Blender 5.1
 - Animation length: 480 frames
-- Render engine: [Cycles or EEVEE]
 
 ## How to open
 Download MetroStation.blend, open it in Blender, and press the
